@@ -1,0 +1,14 @@
+# donnees et sorties
+*.csv
+*.png
+*.pdf
+*.log
+resultats_*/
+kg_*/
+# identifiants : ne jamais versionner
+kaggle.json
+kaggle_accounts/
+.kaggle/
+# python
+__pycache__/
+*.pyc
